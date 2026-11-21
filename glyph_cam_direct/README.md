@@ -61,4 +61,4 @@ Photos of real CSN-A1 printouts made with `print_image.py --auto` (Atkinson dith
 
 | | | | | |
 |---|---|---|---|---|
-| ![](sample%20images/WhatsApp%20Image%202026-11-21%20at%206.29.42%20PM.jpeg) | ![](sample%20images/WhatsApp%20Image%202026-11-21%20at%206.29.43%20PM%281%29.jpeg) | ![](sample%20images/WhatsApp%20Image%202026-11-21%20at%206.29.43%20PM%282%29.jpeg) | ![](sample%20images/WhatsApp%20Image%202026-11-21%20at%206.29.43%20PM.jpeg) | ![](sample%20images/WhatsApp%20Image%202026-11-21%20at%206.30.13%20PM.jpeg) |
+| ![](sample%20images/image1.jpeg) | ![](sample%20images/image2.jpeg) | ![](sample%20images/image3.jpeg) | ![](sample%20images/image4.jpeg) | ![](sample%20images/image5.jpeg) |
